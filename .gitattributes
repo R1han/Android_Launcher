@@ -1,0 +1,2 @@
+build/app/outputs/apk/debug/app-debug.apk filter=lfs diff=lfs merge=lfs -text
+build/app/outputs/apk/debug/app-debug[[:space:]]2.apk filter=lfs diff=lfs merge=lfs -text
